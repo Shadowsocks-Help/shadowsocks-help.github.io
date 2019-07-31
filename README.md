@@ -8,7 +8,7 @@
 
 ## Shadowsocks 使用 ##
 
-| [Shadowsocks 终极使用指南](https://shadowsocks-help.github.io/Shadowsocks/) | [微软 Windows](https://shadowsocks-help.github.io/Shadowsocks/windows.html) | [ 安卓 Android](https://shadowsocks-help.github.io/Shadowsocks/Android.html) | [苹果 iOS](https://shadowsocks-help.github.io/Shadowsocks/ios.html) | [ 苹果 macOS](https://shadowsocks-help.github.io/Shadowsocks/mac.html) | [Linux](https://shadowsocks-help.github.io/Shadowsocks/linux.html) | 
+| [Shadowsocks 终极使用指南](https://shadowsocks-help.github.io/Shadowsocks/) | [微软 Windows](https://shadowsocks-help.github.io/Shadowsocks/windows.html) | [ 安卓 Android](https://shadowsocks-help.github.io/Shadowsocks/Android.html) | [苹果 iOS](https://shadowsocks-help.github.io/Shadowsocks/ios.html) | [ 苹果 macOS](https://shadowsocks-help.github.io/Shadowsocks/mac.html) | [Linux](https://shadowsocks-help.github.io/Shadowsocks/linux.html) | [Chrome 设置](https://shadowsocks-help.github.io/Shadowsocks/Chrome.html) | 
 
 ## Shadowsocks 工具 ##
 
@@ -17,4 +17,4 @@
 
 ## Shadowsocks 其他 ##
 
-| [苹果APPLE ID美区账号免费共享](https://shadowsocks-help.github.io/Shadowsocks/appleid.html) | [如何注册苹果APPLE ID美区账号](https://shadowsocks-help.github.io/Shadowsocks/apple-id.html) | 
+| [苹果APPLE ID美区账号免费共享](https://shadowsocks-help.github.io/Shadowsocks/appleid.html) | [如何注册苹果APPLE ID美区账号](https://shadowsocks-help.github.io/Shadowsocks/apple-id.html) | [好翻墙导航 - 翻墙后看什么？](https://haofanqiang.com/) | 
