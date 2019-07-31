@@ -14,6 +14,9 @@
 
 | [Potatso Lite 代理工具在线安装](https://shadowsocks-help.github.io/Potatso-Lite) | [Shadowrocket 小火箭在线安装](https://shadowsocks-help.github.io/ios) | [Shadowsocks 客户端软件备用下载地址](https://shadowsocks-help.github.io/Shadowsocks/download.html) | 
 
+## Shadowsocks 账号 ##
+
+| [Shadowsocks 免费节点账号分享](https://shadowsocks-help.github.io/Shadowsocks/free-ss.html) | [Shadowsocks 付費穩定服務器推荐](https://s-s-r.github.io/) | 
 
 ## Shadowsocks 其他 ##
 
