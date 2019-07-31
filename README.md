@@ -16,8 +16,4 @@
 
 ## Shadowsocks 其他 ##
 
-| [苹果APPLE ID美区账号免费共享](https://shadowsocks-help.github.io/Shadowsocks/appleid.html) | [如何注册苹果APPLE ID美区账号](https://shadowsocks-help.github.io/Shadowsocks/apple-id.html) | [好翻墙导航 - 翻墙后看什么？](https://haofanqiang.com/) | 
-
-## Shadowsocks 账号 ##
-
-| [Shadowsocks 免费节点账号分享](https://shadowsocks-help.github.io/Shadowsocks/free-ss.html) | [Shadowsocks 付費穩定服務器推荐](https://s-s-r.github.io/) | 
+| [苹果APPLE ID美区账号免费共享](https://shadowsocks-help.github.io/Shadowsocks/appleid.html) | [如何注册苹果APPLE ID美区账号](https://shadowsocks-help.github.io/Shadowsocks/apple-id.html) | 
