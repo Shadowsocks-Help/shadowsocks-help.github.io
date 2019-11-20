@@ -1,6 +1,6 @@
 # Shadowsocks 帮助导航
 
-> Shadowsocks终极帮助导航，希望对你有所帮助！
+> Shadowsocks终极帮助导航，希望对你有所帮助！| [推荐使用V2RAY](https://v2server.github.io/) 
 
 ## Shadowsocks 简介 ##
 
